@@ -1,0 +1,1356 @@
+generated: '2026-07-17'
+method: searched
+source: https://ribbitcap.com/rebels
+summary:
+  portfolio_total: 149
+  in_network: 53
+  api_providers: 28
+  missing: 96
+  stubs_created: 0
+companies:
+- name: Affirm
+  url: https://www.affirm.com
+  description: Buy-now-pay-later consumer lending.
+  sector: fintech
+  status: ipo
+  source: https://ribbitcap.com/rebels
+  slug: affirm
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Ajaib
+  url: https://ajaib.co.id
+  description: Indonesian retail investing app.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: goto-gojek
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Alan
+  url: https://alan.com
+  description: European health insurance provider.
+  sector: insurtech
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: alan-com
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Alpen Labs
+  sector: crypto
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: alpen-labs
+- name: Alude
+  status: unknown
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: alude
+- name: Arbitrum
+  url: https://arbitrum.io
+  description: Ethereum layer-2 scaling network.
+  sector: crypto
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: arbitrum
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Arta
+  url: https://arta.finance
+  description: Digital wealth management platform.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: arta
+- name: Axio
+  description: Indian consumer credit and payments.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: axio
+- name: Bank Jago
+  url: https://www.jago.com
+  description: Indonesian digital bank.
+  sector: fintech
+  status: ipo
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: bank-jago
+- name: Baicai
+  status: unknown
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: baicai
+- name: Balance
+  url: https://www.getbalance.com
+  description: B2B payments and checkout.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: balance
+- name: Ballet
+  url: https://www.ballet.com
+  description: Crypto hardware wallets.
+  sector: crypto
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ballet
+- name: Base Power
+  description: Residential battery and energy company.
+  sector: energy
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: base-power
+- name: BharatPe
+  url: https://bharatpe.com
+  description: Indian merchant payments network.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: bharatpe
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Bitcoin
+  url: https://bitcoin.org
+  description: Decentralized digital currency.
+  sector: crypto
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: bitcoin
+- name: Blockaid
+  url: https://www.blockaid.io
+  description: Onchain security and threat detection.
+  sector: crypto
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: blockaid
+- name: Bridge
+  url: https://www.bridge.xyz
+  description: Stablecoin payments infrastructure (acquired by Stripe).
+  sector: crypto
+  status: acquired
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: bridge
+- name: Brex
+  url: https://www.brex.com
+  description: Corporate cards and spend management.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: brex
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Campfire
+  description: AI-native ERP/accounting software.
+  sector: ai
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: campfire
+- name: Chainalysis
+  url: https://www.chainalysis.com
+  description: Blockchain data and compliance.
+  sector: crypto
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: chainalysis
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Checkout
+  url: https://www.checkout.com
+  description: Global payment processing.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: checkout-com
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Cheddar
+  url: https://www.cheddar.com
+  description: Streaming financial news network.
+  sector: media
+  status: acquired
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cheddar
+- name: Clip
+  url: https://www.clip.mx
+  description: Mexican mobile point-of-sale payments.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: clip
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Coalition
+  url: https://www.coalitioninc.com
+  description: Cyber insurance and security.
+  sector: insurtech
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: coalition-inc
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Cognition
+  url: https://www.cognition.ai
+  description: AI software engineering agents (Devin).
+  sector: ai
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: cognition
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Coinbase
+  url: https://www.coinbase.com
+  description: Cryptocurrency exchange.
+  sector: crypto
+  status: ipo
+  source: https://ribbitcap.com/rebels
+  slug: coinbase
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Coinswitch
+  url: https://coinswitch.co
+  description: Indian crypto trading platform.
+  sector: crypto
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: coinswitch
+- name: Coins.ph
+  url: https://coins.ph
+  description: Philippine crypto wallet and exchange.
+  sector: crypto
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: coinsph
+- name: ComparaOnline
+  url: https://www.comparaonline.com
+  description: Latin American insurance/finance comparison.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: comparaonline
+- name: Conta Azul
+  url: https://contaazul.com
+  description: Brazilian SMB accounting software.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: conta-azul
+- name: CoPlane
+  status: unknown
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: coplane
+- name: Cora
+  url: https://www.cora.com.br
+  description: Brazilian digital bank for SMBs.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cora
+- name: Cowboy Space
+  sector: deeptech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cowboy-space
+- name: CRED
+  url: https://cred.club
+  description: Indian credit-card rewards and payments.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: cred
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Credit Karma
+  url: https://www.creditkarma.com
+  description: Consumer credit scores (acquired by Intuit).
+  sector: fintech
+  status: acquired
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: credit-karma
+- name: Cross River Bank
+  url: https://www.crossriver.com
+  description: Banking-as-a-service provider.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: cross-river-bank
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Crossmint
+  url: https://www.crossmint.com
+  description: Web3 developer and NFT infrastructure.
+  sector: crypto
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: crossmint
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Crusoe
+  url: https://www.crusoe.ai
+  description: AI cloud and energy infrastructure.
+  sector: ai
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: crusoe-energy
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Daffy
+  url: https://www.daffy.org
+  description: Donor-advised fund for giving.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: daffy
+- name: DCG
+  url: https://dcg.co
+  description: Digital Currency Group holding company.
+  sector: crypto
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: dcg
+- name: Decagon
+  url: https://decagon.ai
+  description: AI customer support agents.
+  sector: ai
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: decagon
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Deel
+  url: https://www.deel.com
+  description: Global payroll and hiring.
+  sector: hr-tech
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: deel
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Diem
+  description: Meta-led stablecoin association (wound down).
+  sector: crypto
+  status: dead
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: diem
+- name: dv01
+  url: https://www.dv01.co
+  description: Loan data analytics (acquired by Fitch).
+  sector: fintech
+  status: acquired
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: dv01
+- name: EarnIn
+  url: https://www.earnin.com
+  description: Earned-wage access app.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: earnin
+- name: Enter
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: enter
+- name: Etched
+  url: https://www.etched.com
+  description: Transformer-specialized AI chips.
+  sector: ai
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: etched
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Ethena Labs
+  url: https://ethena.fi
+  description: Synthetic-dollar stablecoin protocol.
+  sector: crypto
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ethena-labs
+- name: Ethereum
+  url: https://ethereum.org
+  description: Smart-contract blockchain platform.
+  sector: crypto
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: ethereum
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Evervault
+  url: https://evervault.com
+  description: Data encryption infrastructure.
+  sector: security
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: evervault
+- name: Fi
+  url: https://fi.money
+  description: Indian neobank app.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: fi-money
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Farcaster
+  url: https://www.farcaster.xyz
+  description: Decentralized social protocol.
+  sector: crypto
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: farcaster
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Fenbeitong
+  url: https://www.fenbeitong.com
+  description: Chinese corporate spend management.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: fenbeitong
+- name: Figure
+  url: https://www.figure.com
+  description: Blockchain-based lending and home equity.
+  sector: fintech
+  status: ipo
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: figure
+- name: Fireblocks
+  url: https://www.fireblocks.com
+  description: Digital-asset custody infrastructure.
+  sector: crypto
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: fireblocks
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Forma
+  url: https://www.joinforma.com
+  description: Employee benefits and lifestyle accounts.
+  sector: hr-tech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: forma
+- name: Funding Circle
+  url: https://www.fundingcircle.com
+  description: SMB loan marketplace.
+  sector: fintech
+  status: ipo
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: funding-circle
+- name: Fuse Energy
+  url: https://www.fuseenergy.com
+  description: UK renewable energy retailer.
+  sector: energy
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: fuse-energy
+- name: Futu
+  url: https://www.futuholdings.com
+  description: Digital brokerage (Moomoo/Futu).
+  sector: fintech
+  status: ipo
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: futu
+- name: Gauntlet
+  url: https://www.gauntlet.xyz
+  description: DeFi risk modeling and optimization.
+  sector: crypto
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: gauntlet
+- name: Genesis Digital Assets
+  url: https://genesisdigitalassets.com
+  description: Bitcoin mining infrastructure.
+  sector: crypto
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: genesis-digital-assets
+- name: Gigs
+  url: https://gigs.com
+  description: Telecom-as-a-service platform.
+  sector: telecom
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: gigs
+- name: Good Driver
+  sector: insurtech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: good-driver
+- name: Good Leap
+  url: https://www.goodleap.com
+  description: Sustainable home-improvement financing.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: good-leap
+- name: Gorila
+  url: https://gorila.com.br
+  description: Brazilian investment tracking.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: gorila
+- name: Groww
+  url: https://groww.in
+  description: Indian retail investing platform.
+  sector: fintech
+  status: ipo
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: groww
+- name: Gusto
+  url: https://gusto.com
+  description: SMB payroll and benefits.
+  sector: hr-tech
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: gusto
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Habito
+  url: https://www.habito.com
+  description: UK digital mortgage broker.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: habito
+- name: Harmonic
+  description: Mathematical superintelligence research.
+  sector: ai
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: harmonic
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Hippo
+  url: https://www.hippo.com
+  description: Home insurance provider.
+  sector: insurtech
+  status: ipo
+  source: https://ribbitcap.com/rebels
+  slug: hippo
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Hiro
+  url: https://www.hiro.so
+  description: Bitcoin developer tools (Stacks).
+  sector: crypto
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: hiro
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: ID.me
+  url: https://www.id.me
+  description: Digital identity verification.
+  sector: identity
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: idme
+- name: Ideal Invest
+  description: Brazilian student-financing platform.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ideal-invest
+- name: Imprint
+  url: https://imprint.co
+  description: Co-branded credit cards and rewards.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: imprint
+- name: Invoice2go
+  url: https://invoice.2go.com
+  description: SMB invoicing (acquired by Bill.com).
+  sector: fintech
+  status: acquired
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: invoice2go
+- name: Juniper Square
+  url: https://www.junipersquare.com
+  description: Private-markets investment management.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: juniper-square
+- name: Jetty
+  url: https://www.jetty.com
+  description: Renters insurance and deposits.
+  sector: insurtech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: jetty
+- name: Justos
+  url: https://www.justos.com.br
+  description: Brazilian car insurance.
+  sector: insurtech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: justos
+- name: Kasa
+  description: Hospitality and flexible-stay platform.
+  sector: proptech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kasa
+- name: Kavak
+  url: https://www.kavak.com
+  description: Used-car marketplace (Latin America).
+  sector: marketplace
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: kavak
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Kiavi
+  url: https://www.kiavi.com
+  description: Real-estate investor lending.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kiavi
+- name: Lead Bank
+  url: https://www.lead.bank
+  description: Banking-as-a-service and business banking.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: lead-bank
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Lighter
+  url: https://lighter.xyz
+  description: Onchain order-book exchange.
+  sector: crypto
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lighter
+- name: Lightspark
+  url: https://www.lightspark.com
+  description: Bitcoin Lightning payments infrastructure.
+  sector: crypto
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lightspark
+- name: Listen Labs
+  url: https://www.listenlabs.ai
+  description: AI-powered user research.
+  sector: ai
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: listen-labs
+- name: M0
+  description: Stablecoin issuance infrastructure.
+  sector: crypto
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: m0
+- name: Mach Industries
+  url: https://www.machindustries.com
+  description: Defense hardware and hydrogen systems.
+  sector: defense
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: mach-industries
+- name: Mercado Libre
+  url: https://www.mercadolibre.com
+  description: Latin American commerce and fintech (Mercado Pago).
+  sector: fintech
+  status: ipo
+  source: https://ribbitcap.com/rebels
+  slug: mercado-libre
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Meso
+  description: Fiat-to-crypto onramp.
+  sector: crypto
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: meso
+- name: Moneyview
+  url: https://moneyview.in
+  description: Indian consumer lending app.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: moneyview
+- name: Monzo
+  url: https://monzo.com
+  description: UK digital bank.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: neobanks
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Morpho
+  url: https://morpho.org
+  description: DeFi lending protocol.
+  sector: crypto
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: morpho
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Multiplier
+  description: AI agents for accounting/tax.
+  sector: ai
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: multiplier
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Nave Bank
+  description: US-Latam cross-border banking.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: nave-bank
+- name: Nevis
+  status: unknown
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: nevis
+- name: NEXT Insurance
+  url: https://www.nextinsurance.com
+  description: SMB insurance (acquired by Munich Re).
+  sector: insurtech
+  status: acquired
+  source: https://ribbitcap.com/rebels
+  slug: next-insurance
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Nubank
+  url: https://nubank.com.br
+  description: Latin American digital bank.
+  sector: fintech
+  status: ipo
+  source: https://ribbitcap.com/rebels
+  slug: nubank
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: OneKey
+  url: https://onekey.so
+  description: Crypto hardware and software wallets.
+  sector: crypto
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: onekey
+- name: OnePay
+  url: https://www.onepay.com
+  description: Walmart-backed consumer fintech app.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: onepay
+- name: Onze
+  description: Brazilian retirement/pension platform.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: onze
+- name: Outpost
+  status: unknown
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: outpost
+- name: Parafin
+  url: https://www.parafin.com
+  description: Embedded SMB capital and lending.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: parafin
+- name: Payflows
+  url: https://www.payflows.io
+  description: Finance operations and treasury platform.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: payflows
+- name: Persona
+  url: https://withpersona.com
+  description: Identity verification infrastructure.
+  sector: identity
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: withpersona
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: PhonePe
+  url: https://www.phonepe.com
+  description: Indian digital payments (UPI).
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: phonepe
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Ping++
+  url: https://www.pingxx.com
+  description: Chinese payments aggregation.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ping
+- name: Pinhome
+  url: https://www.pinhome.id
+  description: Indonesian property marketplace.
+  sector: proptech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: pinhome
+- name: Plaid
+  url: https://plaid.com
+  description: Bank account data connectivity.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: plaid
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Point
+  url: https://point.com
+  description: Home-equity investment platform.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: point
+- name: Policy Bazaar
+  url: https://www.policybazaar.com
+  description: Indian insurance marketplace.
+  sector: insurtech
+  status: ipo
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: policy-bazaar
+- name: Privy
+  url: https://www.privy.io
+  description: Wallet infrastructure (acquired by Stripe).
+  sector: crypto
+  status: acquired
+  source: https://ribbitcap.com/rebels
+  slug: privy
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: PsiQuantum
+  url: https://www.psiquantum.com
+  description: Photonic quantum computing.
+  sector: deeptech
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: psiquantum
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Qognitive
+  sector: ai
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: qognitive
+- name: Quinto Andar
+  url: https://www.quintoandar.com.br
+  description: Brazilian rental and housing marketplace.
+  sector: proptech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: quinto-andar
+- name: Raisin
+  url: https://www.raisin.com
+  description: European savings and deposits marketplace.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: raisin
+- name: Razorpay
+  url: https://razorpay.com
+  description: Indian payments and banking.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: razorpay
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Relay Payments
+  url: https://relaypayments.com
+  description: Logistics and freight payments.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: relay-payments
+- name: Revolut
+  url: https://www.revolut.com
+  description: Global consumer neobank.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: neobanks
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Robinhood
+  url: https://robinhood.com
+  description: Commission-free investing app.
+  sector: fintech
+  status: ipo
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: robinhood
+- name: ROOT
+  url: https://www.joinroot.com
+  description: Usage-based car insurance.
+  sector: insurtech
+  status: ipo
+  source: https://ribbitcap.com/rebels
+  slug: root-insurance
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: SafetyKit
+  url: https://www.safetykit.com
+  description: AI trust-and-safety moderation.
+  sector: ai
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: safetykit
+- name: Settle
+  url: https://www.settle.com
+  description: SMB cash-flow and payables.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: settle
+- name: Slash
+  url: https://www.slash.com
+  description: Business banking for founders.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: slash
+- name: Sling Money
+  url: https://www.sling.money
+  description: Stablecoin global payments app.
+  sector: crypto
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sling-money
+- name: Sofia
+  description: Mexican health insurance and care.
+  sector: insurtech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sofia
+- name: Solana
+  url: https://solana.com
+  description: High-performance blockchain.
+  sector: crypto
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: solana
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Somos Internet
+  description: Latin American fiber internet.
+  sector: telecom
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: somos-internet
+- name: Stark Bank
+  url: https://www.starkbank.com
+  description: Brazilian business banking API.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: stark-bank
+- name: Stedi
+  url: https://www.stedi.com
+  description: EDI and B2B data infrastructure.
+  sector: infrastructure
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: stedi
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Stone Ridge
+  description: Alternative asset management.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: stone-ridge
+- name: Stripe
+  url: https://stripe.com
+  description: Internet payments infrastructure.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: stripe
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Stitch
+  url: https://stitch.money
+  description: African payments infrastructure.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: stitch
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Synaptic
+  url: https://www.synaptic.com
+  description: Alternative-data investment intelligence.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: synaptic
+- name: Tako
+  status: unknown
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tako
+- name: Tala
+  url: https://tala.co
+  description: Emerging-markets consumer lending.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tala
+- name: Taxbit
+  url: https://taxbit.com
+  description: Crypto tax and accounting.
+  sector: crypto
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: taxbit
+- name: Teya
+  url: https://www.teya.com
+  description: SMB payments and business tools.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: teya
+- name: Tomo
+  url: https://tomo.com
+  description: Digital mortgage lender.
+  sector: proptech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tomo
+- name: TOP Group
+  status: unknown
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: top-group
+- name: Toss
+  url: https://toss.im
+  description: Korean financial super-app.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: toss
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Uala
+  url: https://www.uala.com.ar
+  description: Argentine consumer fintech.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: datos-arsat-com-ar
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Uniswap
+  url: https://uniswap.org
+  description: Decentralized exchange protocol.
+  sector: crypto
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: uniswap
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Upgrade
+  url: https://www.upgrade.com
+  description: Consumer credit and banking.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: upgrade
+- name: Vouch
+  url: https://www.vouch.us
+  description: Insurance for startups.
+  sector: insurtech
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: vouch
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Warren
+  description: Brazilian investment platform.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: warren
+- name: Wave
+  url: https://www.wave.com
+  description: African mobile money.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: wave-mobile-money
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Wealthfront
+  url: https://www.wealthfront.com
+  description: Automated investing and savings.
+  sector: fintech
+  status: active
+  source: https://ribbitcap.com/rebels
+  slug: wealthfront
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Xapo
+  url: https://www.xapo.com
+  description: Bitcoin private bank.
+  sector: crypto
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: xapo
+- name: Yoshi
+  description: On-demand car care and fuel.
+  sector: mobility
+  status: active
+  source: https://ribbitcap.com/rebels
+  in_network: false
+  is_api_provider: false
+  suggested_slug: yoshi

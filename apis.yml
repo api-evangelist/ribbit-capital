@@ -1,0 +1,72 @@
+aid: ribbit-capital
+name: Ribbit Capital
+description: >-
+  Ribbit Capital is a venture capital firm founded in 2012 by Micky Malka and headquartered in Palo Alto,
+  California, investing globally in founders who challenge the status quo across financial services and
+  adjacent frontier categories. Long the most focused fintech investor in venture, Ribbit backs companies
+  reshaping money movement, wealth management, identity, data, and global commerce, and has broadened its
+  thesis into crypto and blockchain infrastructure, AI, and energy. The firm invests from early stage
+  through growth, historically concentrating on Series A and B rounds while following its winners over
+  time, and reported roughly US$12 billion in regulatory assets under management as of 2024. Ribbit's
+  portfolio of 150+ companies spans nearly every continent and includes many of fintech's defining
+  outcomes such as Robinhood, Coinbase, Nubank, Credit Karma, Affirm, Revolut, Brex, Mercado Libre, and
+  Groww, alongside newer bets in crypto (Solana, Ethena, Lightspark), AI (Cognition, Etched, Decagon),
+  and energy (Base Power, Crusoe). In 2021 Ribbit partnered with Walmart to launch the consumer fintech
+  venture now known as OnePay.
+image: https://ribbitcap.com/icon.ico
+x-type: venture-capital
+x-category: Venture Capital
+created: '2026-07-17'
+modified: '2026-07-17'
+specificationVersion: '0.20'
+tags:
+  - Venture Capital
+  - Series A
+  - Series B
+  - Growth Equity
+  - Fintech
+  - Crypto
+  - Artificial Intelligence
+  - Insurtech
+  - Financial Services
+  - Global
+  - Palo Alto
+  - North America
+apis: []
+common:
+  - type: Website
+    url: https://ribbitcap.com/
+  - type: Portfolio
+    url: https://ribbitcap.com/rebels
+  - type: Portfolio
+    url: portfolio/ribbit-capital-portfolio.yml
+  - type: InvestmentThesis
+    url: https://ribbitcap.com/
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/ribbit-capital
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/ribbit-capital
+  - type: Twitter
+    url: https://x.com/RibbitCapital
+  - type: Features
+    data:
+      - "Stage: Early to growth; historically concentrated in Series A and Series B"
+      - "Sectors: Fintech, financial services, crypto/blockchain, AI, insurtech, energy, identity, data, global commerce"
+      - "Geography: Global (US, Latin America, Europe, India, Southeast Asia)"
+      - "AUM: ~US$12B regulatory AUM (as of 2024, self/press-reported)"
+      - "Portfolio: 150+ companies"
+      - "Founded: 2012"
+      - "HQ: Palo Alto, California, USA"
+      - "Founder: Micky Malka"
+    sources:
+      - https://ribbitcap.com/
+      - https://en.wikipedia.org/wiki/Ribbit_Capital
+    updated: '2026-07-17'
+maintainers:
+  - FN: Kin Lane
+    email: info@apievangelist.com
+    url: https://apievangelist.com
+  - FN: APIs.json
+    url: http://apisjson.org
+  - FN: Ribbit Capital
+    url: https://ribbitcap.com/
