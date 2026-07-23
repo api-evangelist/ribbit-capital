@@ -13,6 +13,17 @@ description: >-
   Groww, alongside newer bets in crypto (Solana, Ethena, Lightspark), AI (Cognition, Etched, Decagon),
   and energy (Base Power, Crusoe). In 2021 Ribbit partnered with Walmart to launch the consumer fintech
   venture now known as OnePay.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://ribbitcap.com/icon.ico
 x-type: venture-capital
 x-category: Venture Capital
