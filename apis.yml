@@ -50,7 +50,7 @@ tags:
   - Crypto
   - Artificial Intelligence
   - Insurtech
-  - Financial-Services
+  - Financial Services
   - Global
   - Palo Alto
   - North America
@@ -67,6 +67,7 @@ tags_raw:
   - Global
   - Palo Alto
   - North America
+  - Financial-Services
 apis: []
 common:
   - type: Website
