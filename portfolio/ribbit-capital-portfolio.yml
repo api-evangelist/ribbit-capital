@@ -348,7 +348,7 @@ companies:
   sector: fintech
   status: active
   source: https://ribbitcap.com/rebels
-  slug: crb
+  slug: crossriver
   in_network: true
   is_api_provider: false
   matched_by: domain
