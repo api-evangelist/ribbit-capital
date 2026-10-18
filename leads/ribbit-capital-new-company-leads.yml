@@ -2,6 +2,13 @@ generated: '2026-10-18'
 method: derived
 source_vc: ribbit-capital
 leads:
+- name: Alpen Labs
+  url: https://www.alpen.org/
+  suggested_slug: alpen-org
+  sector: crypto
+  source_vc: ribbit-capital
+  source: https://ribbitcap.com/rebels
+  stub_created: false
 - name: Arta
   url: https://arta.finance
   suggested_slug: arta-finance
@@ -20,6 +27,13 @@ leads:
   url: ''
   suggested_slug: kasa
   sector: proptech
+  source_vc: ribbit-capital
+  source: https://ribbitcap.com/rebels
+  stub_created: false
+- name: Outpost
+  url: https://outpost.ai/
+  suggested_slug: outpost-ai
+  sector: ''
   source_vc: ribbit-capital
   source: https://ribbitcap.com/rebels
   stub_created: false

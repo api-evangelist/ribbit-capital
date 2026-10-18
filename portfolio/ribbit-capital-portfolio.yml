@@ -3,9 +3,9 @@ method: searched
 source: https://ribbitcap.com/rebels
 summary:
   portfolio_total: 149
-  in_network: 144
+  in_network: 142
   api_providers: 51
-  missing: 5
+  missing: 7
   stubs_created: 0
 companies:
 - name: Affirm
@@ -42,17 +42,21 @@ companies:
   sector: crypto
   status: active
   source: https://ribbitcap.com/rebels
-  slug: alpen-labs
-  in_network: true
+  in_network: false
   is_api_provider: false
-  matched_by: name-slug
+  url: https://www.alpen.org/
+  x-url-source: network-repo (title-verified 2026-10-18)
+  x-name-collision: alpen-labs
+  suggested_slug: alpen-org
 - name: Alude
   status: unknown
   source: https://ribbitcap.com/rebels
   slug: alude
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.alude.com.br/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Arbitrum
   url: https://arbitrum.io
   description: Ethereum layer-2 scaling network.
@@ -71,8 +75,8 @@ companies:
   source: https://ribbitcap.com/rebels
   in_network: false
   is_api_provider: false
-  x-name-collision: arta
   suggested_slug: arta-finance
+  x-name-collision: arta
 - name: Axio
   description: Indian consumer credit and payments.
   sector: fintech
@@ -82,6 +86,7 @@ companies:
   in_network: true
   is_api_provider: false
   matched_by: name-slug
+  x-url-candidate: https://axio.com
 - name: Bank Jago
   url: https://www.jago.com
   description: Indonesian digital bank.
@@ -127,7 +132,9 @@ companies:
   slug: base-power
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.basepowercompany.com
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: BharatPe
   url: https://bharatpe.com
   description: Indian merchant payments network.
@@ -186,7 +193,9 @@ companies:
   slug: campfire
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: https://campfire.ai/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Chainalysis
   url: https://www.chainalysis.com
   description: Blockchain data and compliance.
@@ -303,7 +312,9 @@ companies:
   slug: coplane
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
+  url: https://coplane.com
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Cora
   url: https://www.cora.com.br
   description: Brazilian digital bank for SMBs.
@@ -321,6 +332,7 @@ companies:
   in_network: false
   is_api_provider: false
   suggested_slug: cowboy-space
+  x-url-candidate: https://www.cowboyspace.com/
 - name: CRED
   url: https://cred.club
   description: Indian credit-card rewards and payments.
@@ -419,7 +431,9 @@ companies:
   slug: diem
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.askdiem.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: dv01
   url: https://www.dv01.co
   description: Loan data analytics (acquired by Fitch).
@@ -447,7 +461,9 @@ companies:
   slug: enter
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.enter.de/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Etched
   url: https://www.etched.com
   description: Transformer-specialized AI chips.
@@ -615,7 +631,9 @@ companies:
   slug: good-driver
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.gooddriver.ai/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Good Leap
   url: https://www.goodleap.com
   description: Sustainable home-improvement financing.
@@ -674,7 +692,9 @@ companies:
   slug: harmonic
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.harmonic.fun
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Hippo
   url: https://www.hippo.com
   description: Home insurance provider.
@@ -772,6 +792,7 @@ companies:
   in_network: false
   is_api_provider: false
   suggested_slug: kasa
+  x-url-candidate: https://kasa.com
 - name: Kavak
   url: https://www.kavak.com
   description: Used-car marketplace (Latin America).
@@ -869,7 +890,9 @@ companies:
   slug: meso
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
+  url: https://meso.network
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Moneyview
   url: https://moneyview.in
   description: Indian consumer lending app.
@@ -908,7 +931,9 @@ companies:
   slug: multiplier
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.usemultiplier.com
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Nave Bank
   description: US-Latam cross-border banking.
   sector: fintech
@@ -917,14 +942,18 @@ companies:
   slug: nave-bank
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.navebank.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Nevis
   status: unknown
   source: https://ribbitcap.com/rebels
   slug: nevis
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.nevis.net/en/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: NEXT Insurance
   url: https://www.nextinsurance.com
   description: SMB insurance (acquired by Munich Re).
@@ -973,14 +1002,18 @@ companies:
   slug: onze
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.onze.com.br/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Outpost
   status: unknown
   source: https://ribbitcap.com/rebels
-  slug: outpost
-  in_network: true
+  in_network: false
   is_api_provider: false
-  matched_by: name-slug
+  url: https://outpost.ai/
+  x-url-source: network-repo (title-verified 2026-10-18)
+  x-name-collision: outpost
+  suggested_slug: outpost-ai
 - name: Parafin
   url: https://www.parafin.com
   description: Embedded SMB capital and lending.
@@ -1098,7 +1131,9 @@ companies:
   slug: qognitive
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.qognitive.io/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Quinto Andar
   url: https://www.quintoandar.com.br
   description: Brazilian rental and housing marketplace.
@@ -1207,8 +1242,8 @@ companies:
   source: https://ribbitcap.com/rebels
   in_network: false
   is_api_provider: false
-  x-name-collision: sling-money
   suggested_slug: sling-money
+  x-name-collision: sling-money
 - name: Sofia
   description: Mexican health insurance and care.
   sector: insurtech
@@ -1218,6 +1253,7 @@ companies:
   in_network: true
   is_api_provider: false
   matched_by: name-slug
+  x-url-candidate: https://www.sofia.bio/
 - name: Solana
   url: https://solana.com
   description: High-performance blockchain.
@@ -1265,7 +1301,9 @@ companies:
   slug: stone-ridge
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.stoneridgeam.com
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Stripe
   url: https://stripe.com
   description: Internet payments infrastructure.
@@ -1302,7 +1340,9 @@ companies:
   slug: tako
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: https://tako.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Tala
   url: https://tala.co
   description: Emerging-markets consumer lending.
@@ -1350,6 +1390,7 @@ companies:
   in_network: true
   is_api_provider: true
   matched_by: name-slug
+  x-url-candidate: https://topgroup.com
 - name: Toss
   url: https://toss.im
   description: Korean financial super-app.
@@ -1408,7 +1449,9 @@ companies:
   slug: warren
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
+  url: https://warren.com.br
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Wave
   url: https://www.wave.com
   description: African mobile money.
@@ -1437,8 +1480,8 @@ companies:
   source: https://ribbitcap.com/rebels
   in_network: false
   is_api_provider: false
-  x-name-collision: xapo
   suggested_slug: xapo-com
+  x-name-collision: xapo
 - name: Yoshi
   description: On-demand car care and fuel.
   sector: mobility
@@ -1447,4 +1490,6 @@ companies:
   slug: yoshi
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.yoshimobility.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
