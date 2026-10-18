@@ -16,20 +16,6 @@ leads:
   source_vc: ribbit-capital
   source: https://ribbitcap.com/rebels
   stub_created: false
-- name: Cowboy Space
-  url: ''
-  suggested_slug: cowboy-space
-  sector: deeptech
-  source_vc: ribbit-capital
-  source: https://ribbitcap.com/rebels
-  stub_created: false
-- name: Kasa
-  url: ''
-  suggested_slug: kasa
-  sector: proptech
-  source_vc: ribbit-capital
-  source: https://ribbitcap.com/rebels
-  stub_created: false
 - name: Outpost
   url: https://outpost.ai/
   suggested_slug: outpost-ai

@@ -3,9 +3,9 @@ method: searched
 source: https://ribbitcap.com/rebels
 summary:
   portfolio_total: 149
-  in_network: 142
+  in_network: 144
   api_providers: 51
-  missing: 7
+  missing: 5
   stubs_created: 0
 companies:
 - name: Affirm
@@ -46,8 +46,8 @@ companies:
   is_api_provider: false
   url: https://www.alpen.org/
   x-url-source: network-repo (title-verified 2026-10-18)
-  x-name-collision: alpen-labs
   suggested_slug: alpen-org
+  x-name-collision: alpen-labs
 - name: Alude
   status: unknown
   source: https://ribbitcap.com/rebels
@@ -329,10 +329,12 @@ companies:
   sector: deeptech
   status: active
   source: https://ribbitcap.com/rebels
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cowboy-space
-  x-url-candidate: https://www.cowboyspace.com/
+  url: https://www.cowboyspace.com/
+  x-url-source: web check 2026-10-18 (confirmed)
+  slug: aetherflux
+  matched_by: domain
 - name: CRED
   url: https://cred.club
   description: Indian credit-card rewards and payments.
@@ -789,10 +791,12 @@ companies:
   sector: proptech
   status: active
   source: https://ribbitcap.com/rebels
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: kasa
-  x-url-candidate: https://kasa.com
+  url: https://kasa.com
+  x-url-source: web check 2026-10-18 (confirmed)
+  slug: kasa-living
+  matched_by: domain
 - name: Kavak
   url: https://www.kavak.com
   description: Used-car marketplace (Latin America).
@@ -1012,8 +1016,8 @@ companies:
   is_api_provider: false
   url: https://outpost.ai/
   x-url-source: network-repo (title-verified 2026-10-18)
-  x-name-collision: outpost
   suggested_slug: outpost-ai
+  x-name-collision: outpost
 - name: Parafin
   url: https://www.parafin.com
   description: Embedded SMB capital and lending.
