@@ -3,9 +3,9 @@ method: searched
 source: https://ribbitcap.com/rebels
 summary:
   portfolio_total: 149
-  in_network: 149
-  api_providers: 49
-  missing: 0
+  in_network: 144
+  api_providers: 51
+  missing: 5
   stubs_created: 0
 companies:
 - name: Affirm
@@ -24,7 +24,7 @@ companies:
   sector: fintech
   status: active
   source: https://ribbitcap.com/rebels
-  slug: erudifi
+  slug: actavis
   in_network: true
   is_api_provider: false
   matched_by: domain
@@ -34,7 +34,7 @@ companies:
   sector: insurtech
   status: active
   source: https://ribbitcap.com/rebels
-  slug: alan
+  slug: alan-com
   in_network: true
   is_api_provider: false
   matched_by: domain
@@ -69,10 +69,10 @@ companies:
   sector: fintech
   status: active
   source: https://ribbitcap.com/rebels
-  slug: arta
-  in_network: true
+  in_network: false
   is_api_provider: false
-  matched_by: name-slug
+  x-name-collision: arta
+  suggested_slug: arta-finance
 - name: Axio
   description: Indian consumer credit and payments.
   sector: fintech
@@ -243,7 +243,7 @@ companies:
   sector: ai
   status: active
   source: https://ribbitcap.com/rebels
-  slug: cognition
+  slug: cognition-labs
   in_network: true
   is_api_provider: true
   matched_by: domain
@@ -312,16 +312,15 @@ companies:
   source: https://ribbitcap.com/rebels
   slug: cora
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   matched_by: domain
 - name: Cowboy Space
   sector: deeptech
   status: active
   source: https://ribbitcap.com/rebels
-  slug: cowboy-space
-  in_network: true
+  in_network: false
   is_api_provider: false
-  matched_by: name-slug
+  suggested_slug: cowboy-space
 - name: CRED
   url: https://cred.club
   description: Indian credit-card rewards and payments.
@@ -338,7 +337,7 @@ companies:
   sector: fintech
   status: acquired
   source: https://ribbitcap.com/rebels
-  slug: creditkarma
+  slug: credit-karma
   in_network: true
   is_api_provider: false
   matched_by: domain
@@ -368,7 +367,7 @@ companies:
   sector: ai
   status: active
   source: https://ribbitcap.com/rebels
-  slug: crusoe-energy
+  slug: crusoe
   in_network: true
   is_api_provider: true
   matched_by: domain
@@ -408,7 +407,7 @@ companies:
   sector: hr-tech
   status: active
   source: https://ribbitcap.com/rebels
-  slug: deel
+  slug: deel-com
   in_network: true
   is_api_provider: true
   matched_by: domain
@@ -525,9 +524,9 @@ companies:
   sector: fintech
   status: ipo
   source: https://ribbitcap.com/rebels
-  slug: figure
+  slug: figure-markets
   in_network: true
-  is_api_provider: true
+  is_api_provider: false
   matched_by: domain
 - name: Fireblocks
   url: https://www.fireblocks.com
@@ -565,7 +564,7 @@ companies:
   sector: energy
   status: active
   source: https://ribbitcap.com/rebels
-  slug: fuse-energy
+  slug: fuse
   in_network: true
   is_api_provider: false
   matched_by: domain
@@ -623,9 +622,9 @@ companies:
   sector: fintech
   status: active
   source: https://ribbitcap.com/rebels
-  slug: goodleap
+  slug: good-leap
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   matched_by: domain
 - name: Gorila
   url: https://gorila.com.br
@@ -682,7 +681,7 @@ companies:
   sector: insurtech
   status: ipo
   source: https://ribbitcap.com/rebels
-  slug: hippo
+  slug: hippo-com
   in_network: true
   is_api_provider: false
   matched_by: domain
@@ -731,7 +730,7 @@ companies:
   sector: fintech
   status: acquired
   source: https://ribbitcap.com/rebels
-  slug: invoice-2go
+  slug: invoice2go
   in_network: true
   is_api_provider: false
   matched_by: domain
@@ -770,10 +769,9 @@ companies:
   sector: proptech
   status: active
   source: https://ribbitcap.com/rebels
-  slug: kasa
-  in_network: true
+  in_network: false
   is_api_provider: false
-  matched_by: name-slug
+  suggested_slug: kasa
 - name: Kavak
   url: https://www.kavak.com
   description: Used-car marketplace (Latin America).
@@ -849,7 +847,7 @@ companies:
   sector: defense
   status: active
   source: https://ribbitcap.com/rebels
-  slug: machindustries
+  slug: mach-industries
   in_network: true
   is_api_provider: false
   matched_by: domain
@@ -878,7 +876,7 @@ companies:
   sector: fintech
   status: active
   source: https://ribbitcap.com/rebels
-  slug: moneyview
+  slug: money-view
   in_network: true
   is_api_provider: false
   matched_by: domain
@@ -1009,7 +1007,7 @@ companies:
   sector: identity
   status: active
   source: https://ribbitcap.com/rebels
-  slug: withpersona
+  slug: persona
   in_network: true
   is_api_provider: true
   matched_by: domain
@@ -1107,7 +1105,7 @@ companies:
   sector: proptech
   status: active
   source: https://ribbitcap.com/rebels
-  slug: quintoandar
+  slug: quinto-andar
   in_network: true
   is_api_provider: false
   matched_by: domain
@@ -1167,9 +1165,9 @@ companies:
   sector: insurtech
   status: ipo
   source: https://ribbitcap.com/rebels
-  slug: root-insurance
+  slug: root
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   matched_by: domain
 - name: SafetyKit
   url: https://www.safetykit.com
@@ -1207,10 +1205,10 @@ companies:
   sector: crypto
   status: active
   source: https://ribbitcap.com/rebels
-  slug: sling
-  in_network: true
+  in_network: false
   is_api_provider: false
-  matched_by: domain
+  x-name-collision: sling-money
+  suggested_slug: sling-money
 - name: Sofia
   description: Mexican health insurance and care.
   sector: insurtech
@@ -1368,7 +1366,7 @@ companies:
   sector: fintech
   status: active
   source: https://ribbitcap.com/rebels
-  slug: datos-arsat-com-ar
+  slug: agrofy
   in_network: true
   is_api_provider: false
   matched_by: domain
@@ -1398,7 +1396,7 @@ companies:
   sector: insurtech
   status: active
   source: https://ribbitcap.com/rebels
-  slug: vouch
+  slug: vouch-co
   in_network: true
   is_api_provider: false
   matched_by: domain
@@ -1437,10 +1435,10 @@ companies:
   sector: crypto
   status: active
   source: https://ribbitcap.com/rebels
-  slug: xapo
-  in_network: true
+  in_network: false
   is_api_provider: false
-  matched_by: name-slug
+  x-name-collision: xapo
+  suggested_slug: xapo-com
 - name: Yoshi
   description: On-demand car care and fuel.
   sector: mobility

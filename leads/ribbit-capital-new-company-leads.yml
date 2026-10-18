@@ -1,4 +1,39 @@
-generated: '2026-07-22'
+generated: '2026-10-18'
 method: derived
 source_vc: ribbit-capital
-leads: []
+leads:
+- name: Arta
+  url: https://arta.finance
+  suggested_slug: arta-finance
+  sector: fintech
+  source_vc: ribbit-capital
+  source: https://ribbitcap.com/rebels
+  stub_created: false
+- name: Cowboy Space
+  url: ''
+  suggested_slug: cowboy-space
+  sector: deeptech
+  source_vc: ribbit-capital
+  source: https://ribbitcap.com/rebels
+  stub_created: false
+- name: Kasa
+  url: ''
+  suggested_slug: kasa
+  sector: proptech
+  source_vc: ribbit-capital
+  source: https://ribbitcap.com/rebels
+  stub_created: false
+- name: Sling Money
+  url: https://www.sling.money
+  suggested_slug: sling-money
+  sector: crypto
+  source_vc: ribbit-capital
+  source: https://ribbitcap.com/rebels
+  stub_created: false
+- name: Xapo
+  url: https://www.xapo.com
+  suggested_slug: xapo-com
+  sector: crypto
+  source_vc: ribbit-capital
+  source: https://ribbitcap.com/rebels
+  stub_created: false
